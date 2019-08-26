@@ -63,3 +63,6 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+/.idea
+/app/src/androidTest/java/com/example/joysticktest/ExampleInstrumentedTest.kt
+/app/src/test/java/com/example/joysticktest/ExampleUnitTest.kt
